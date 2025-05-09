@@ -12,10 +12,10 @@ A Free Pascal tool to count lines in Lazarus/Delphi projects (*.pas, *.pp, *.dpr
 - Outputs results to console and `line_counts.csv` in target directory.
 - Safeguard for empty directories to prevent division-by-zero errors.
 
+## License
+FPC modified LGPL Version 2 (https://wiki.lazarus.freepascal.org/FPC_modified_LGPL)
+
 ## Usage
 ```bash
 fpc countlines.pas
 ./countlines [directory]
-
-## License
-FPC modified LGPL Version 2 (https://wiki.lazarus.freepascal.org/FPC_modified_LGPL)
