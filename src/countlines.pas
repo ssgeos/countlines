@@ -8,7 +8,7 @@
   - Single-pass file reading, CSV output
   - Safeguard for empty directories
   copyright (C) Frank Hoogerbeets (https://github.com/ssgeos/)
-  License: LGPL
+  License: FPC modified LGPL Version 2 (https://wiki.lazarus.freepascal.org/FPC_modified_LGPL)
 }
 program countlines;
 
