@@ -1,0 +1,9 @@
+# Free Pascal
+*.o
+*.ppu
+*.a
+*.exe
+*.bak
+*.res
+countlines  # Compiled binary
+line_counts.csv  # Output file
